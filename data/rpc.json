@@ -1,0 +1,9 @@
+{
+  "ethereum": {
+    "rpc": [
+      "https://rpc.ankr.com/eth/fa57a9a7525cd2db2b0c027cbc1221c098295ee4665c19b7744eb7143312b273"
+    ],
+    "explorer": "https://etherscan.io/tx/",
+    "token": "ETH"
+  }
+}
